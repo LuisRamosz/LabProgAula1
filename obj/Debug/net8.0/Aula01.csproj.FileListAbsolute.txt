@@ -1,0 +1,28 @@
+C:\Users\luisf\OneDrive\Desktop\Aula01\bin\Debug\net8.0\Aula01.exe
+C:\Users\luisf\OneDrive\Desktop\Aula01\bin\Debug\net8.0\Aula01.deps.json
+C:\Users\luisf\OneDrive\Desktop\Aula01\bin\Debug\net8.0\Aula01.runtimeconfig.json
+C:\Users\luisf\OneDrive\Desktop\Aula01\bin\Debug\net8.0\Aula01.dll
+C:\Users\luisf\OneDrive\Desktop\Aula01\bin\Debug\net8.0\Aula01.pdb
+C:\Users\luisf\OneDrive\Desktop\Aula01\obj\Debug\net8.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\OneDrive\Desktop\Aula01\obj\Debug\net8.0\Aula01.AssemblyInfoInputs.cache
+C:\Users\luisf\OneDrive\Desktop\Aula01\obj\Debug\net8.0\Aula01.AssemblyInfo.cs
+C:\Users\luisf\OneDrive\Desktop\Aula01\obj\Debug\net8.0\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Desktop\Aula01\obj\Debug\net8.0\Aula01.dll
+C:\Users\luisf\OneDrive\Desktop\Aula01\obj\Debug\net8.0\refint\Aula01.dll
+C:\Users\luisf\OneDrive\Desktop\Aula01\obj\Debug\net8.0\Aula01.pdb
+C:\Users\luisf\OneDrive\Desktop\Aula01\obj\Debug\net8.0\Aula01.genruntimeconfig.cache
+C:\Users\luisf\OneDrive\Desktop\Aula01\obj\Debug\net8.0\ref\Aula01.dll
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\Aula1\bin\Debug\net8.0\Aula01.exe
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\Aula1\bin\Debug\net8.0\Aula01.deps.json
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\Aula1\bin\Debug\net8.0\Aula01.runtimeconfig.json
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\Aula1\bin\Debug\net8.0\Aula01.dll
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\Aula1\bin\Debug\net8.0\Aula01.pdb
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\Aula1\obj\Debug\net8.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\Aula1\obj\Debug\net8.0\Aula01.AssemblyInfoInputs.cache
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\Aula1\obj\Debug\net8.0\Aula01.AssemblyInfo.cs
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\Aula1\obj\Debug\net8.0\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\Aula1\obj\Debug\net8.0\Aula01.dll
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\Aula1\obj\Debug\net8.0\refint\Aula01.dll
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\Aula1\obj\Debug\net8.0\Aula01.pdb
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\Aula1\obj\Debug\net8.0\Aula01.genruntimeconfig.cache
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\Aula1\obj\Debug\net8.0\ref\Aula01.dll
